@@ -59,7 +59,7 @@ author:
   name   : "Daniel Hakimi"
   avatar : "/assets/images/pic.jpg"
   bio    : "Physics and mathematics student at Sharif University of Technology.<br><br>my Gmail address : <a href='mailto:danielhk1383@gmail.com'>danielhk1383@gmail.com</a>"
-  style: "width: 150px; height: 150px;"
+  style: "width: 500px; height: 500px;"
 defaults:
   # _posts
   - scope:
