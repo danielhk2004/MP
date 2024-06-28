@@ -7,4 +7,4 @@ tags:
   - Maxwell equations
   - Rotating frame
 ---
-[pdf](https://github.com/danielhk2004/MP/blob/master/files/%D8%AF%D8%B1%D8%B3%20%D9%85%D9%82%D8%A7%D9%84%D9%87.pdf)
+<a href="https://raw.githubusercontent.com/danielhk2004/MP/main/files/درس مقاله.pdf" download> PDF</a>
