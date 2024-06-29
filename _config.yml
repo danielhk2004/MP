@@ -60,12 +60,12 @@ author:
   avatar : "/assets/images/pic.jpg"
   bio    : "Physics and mathematics student at Sharif University of Technology."
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/danial-hakimi-69a012317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcWNn7c2mTlmJzW4tEzxJhA%3D%3D"
     - label: "Gmail"
       icon: "fas fa-envelope"
       url: "mailto:danielhk1383@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/danial-hakimi-69a012317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcWNn7c2mTlmJzW4tEzxJhA%3D%3D"
 defaults:
   # _posts
   - scope:
