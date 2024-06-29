@@ -2,7 +2,7 @@
 title: "Maxwell equation in rotating frame!"
 date: 2024-06-25T15:34:30-04:00
 categories:
-  - electromagnetic
+  - Electromagnetic
 tags:
   - Maxwell equations
   - Rotating frame
