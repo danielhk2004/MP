@@ -69,7 +69,8 @@ author:
     - label: "Telegram"
       icon: "fab fa-telegram"
       url: "https://t.me/danielhk2004"
-      stylesheets: -"/assets/css/custom.css"
+stylesheets:
+  - "/assets/css/custom.css"
 defaults:
   # _posts
   - scope:
