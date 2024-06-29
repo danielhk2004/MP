@@ -59,6 +59,10 @@ author:
   name   : "Daniel Hakimi"
   avatar : "/assets/images/pic.jpg"
   bio    : "Physics and mathematics student at Sharif University of Technology.<br><br>my Gmail address : <a href='mailto:danielhk1383@gmail.com'>danielhk1383@gmail.com</a>"
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/danial-hakimi-69a012317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcWNn7c2mTlmJzW4tEzxJhA%3D%3D"
 defaults:
   # _posts
   - scope:
