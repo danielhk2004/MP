@@ -66,6 +66,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/danial-hakimi-69a012317?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BcWNn7c2mTlmJzW4tEzxJhA%3D%3D"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "https://t.me/danielhk2004"
 defaults:
   # _posts
   - scope:
