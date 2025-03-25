@@ -6,4 +6,4 @@ categories:
 tags:
   - Maxwell equations
   - Rotating frame
-[Download PDF](files/Electrodynamics%20of%20Rotating%20Bodies.pdf)
+[Download PDF](MP/files/Electrodynamics%20of%20Rotating%20Bodies.pdf)
