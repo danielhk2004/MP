@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Daniel Hakimi"
   avatar : "/assets/images/2.jpg"
-  bio    : "Physics and mathematics student at Sharif University of Technology."
+  bio    : "Physics and Mathematics student at Sharif University of Technology."
   links:
     - label: "Gmail"
       icon: "fas fa-envelope"
