@@ -14,4 +14,5 @@ tags:
  will cover more details about a wider variety of motions in the Schwarzschild metric, as well as an
  examination of the radiative effects of the test particle and the coupling of electromagnetic waves
  and their spin with gravity and spacetime.
+ 
 [Applications of MPD]({{ site.baseurl }}/files/MPD-AP.pdf)
