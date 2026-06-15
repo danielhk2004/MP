@@ -62,7 +62,7 @@ This website serves as a place where I share my research, projects, notes, and i
 <div class="info-box">
 
 🎓 Education
-
+---
 Sharif University of Technology
 
 B.Sc. in Physics
