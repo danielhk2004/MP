@@ -46,11 +46,10 @@ margin-bottom:0;
 
 <div class="profile-card">
 
-I'm **Daniel Hakimi**, an undergraduate Physics student at **Sharif University of Technology**, Iran.
+I'm Daniel Hakimi, an undergraduate Physics student at Sharif University of Technology.
 
-My research interests are centered on **General Relativity**, **Quantum Gravity**, **Quantum Field Theory**, and **Spin-Gravity Coupling**. I enjoy studying the mathematical foundations of modern theoretical physics and exploring the interface between gravity and quantum theory.
+My research interests are centered on General Relativity, Quantum Gravity, Quantum Field Theory, and Spin-Gravity Coupling. I enjoy studying the mathematical foundations of modern theoretical physics and exploring the interface between gravity and quantum theory.
 
-Alongside Physics, I am pursuing a **minor in Mathematics**, which complements my interest in mathematical physics.
 
 This website serves as a place where I share my research, projects, notes, and ideas.
 
@@ -62,37 +61,22 @@ This website serves as a place where I share my research, projects, notes, and i
 
 <div class="info-box">
 
-### 🎓 Education
+🎓 Education
 
-**Sharif University of Technology**
+Sharif University of Technology
 
 B.Sc. in Physics
 
-**Minor:** Mathematics
+GPA
 
-**Expected Graduation:** 2026
-
-**GPA**
-
-# **19.07 / 20**
+19.30 / 20
 
 </div>
 
 <div class="info-box">
 
-### 🔬 Research Interests
 
-- Spin-Gravity Coupling
-- Quantum Gravity
-- Quantum Field Theory
-- General Relativity
-- Gravitoelectromagnetism (GEM)
-
-</div>
-
-<div class="info-box">
-
-### 💼 Academic Experience
+💼 Academic Experience
 
 - Teaching Assistant — Introduction to General Relativity
 - Teaching Assistant — Special Relativity
@@ -104,14 +88,13 @@ B.Sc. in Physics
 
 <div class="info-box">
 
-### 🏆 Honors
+🏆 Honors
 
 - Ranked among the **Top 5%** of Physics students at Sharif University
 - Admitted to the **Direct Master's Program for Top Talents**
 - Top **1%** in the National University Entrance Exam
-- Top 80 Finalist in the National Physics Olympiad
-- High Rank in National Mathematics Olympiad
-- High Rank in National Astronomy & Astrophysics Olympiad
+- High Rank in the National Physics Olympiad
+- High Rank in the National Mathematics Olympiad
 
 </div>
 
@@ -119,7 +102,7 @@ B.Sc. in Physics
 
 ---
 
-# Current Research Projects
+Research Projects
 
 <div class="profile-card">
 
@@ -134,24 +117,6 @@ B.Sc. in Physics
 - Quantum Electrodynamics
 - Gyroscope Motion in Earth's Gravity
 - Large Hadron Collider Theory
-
-</div>
-
----
-
-# Selected Coursework
-
-<div class="profile-card">
-
-| Course | Grade |
-|---------|------|
-| Gravitation & General Relativity (PhD) | **20/20** |
-| Electromagnetism III (Graduate) | **20/20** |
-| Group Theory | **20/20** |
-| Classical Mechanics (Graduate) | **19.6/20** |
-| Introduction to Elementary Particles | **19.5/20** |
-| Quantum Mechanics III (Graduate) | **19/20** |
-| Special Topics in Gravity (PhD) | **19/20** |
 
 </div>
 
@@ -184,11 +149,6 @@ B.Sc. in Physics
 </div>
 
 <div class="info-box">
-
-### Languages
-
-- Persian (Native)
-- English (Professional Proficiency)
 
 </div>
 
