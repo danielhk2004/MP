@@ -57,12 +57,10 @@ margin-bottom:6px;
 }
 </style>
 
-# About Me
-
 <div class="profile-card">
 
 <p>
-I'm <strong>Daniel Hakimi</strong>, an undergraduate Physics student at
+I'm <strong>Daniel Hakimi</strong>, a Physics student at
 <strong>Sharif University of Technology</strong>.
 </p>
 
@@ -143,15 +141,27 @@ and ideas.
 
 <ul>
 <li>Spin-Gravity Coupling</li>
+  
 <li>Mathematical Methods for Explicit MPD Solutions</li>
+
 <li>Analytical Spinning Particle Dynamics under Gravitational Waves</li>
+
 <li>Approximate Methods for Solving MPD Equations</li>
+
 <li>Dirac Equation in Curved Spacetime</li>
+
 <li>Quantum Version of MPD Equations</li>
-<li>Gravitoelectromagnetism</li>
+
+<li>Relativistic Stern–Gerlach force in Gravitoelectromagnetism and Spin-Gravity Coupling</li>
+
+<li>Special Topics on Gravitoelectromagnetism</li>
+
 <li>Electrodynamics of Rotating Bodies</li>
-<li>Quantum Electrodynamics</li>
+
+<li>Special Topics on Quantum Electrodynamics</li>
+
 <li>Gyroscope Motion in Earth's Gravity</li>
+
 <li>Large Hadron Collider Theory</li>
 </ul>
 
@@ -186,5 +196,3 @@ and ideas.
 </div>
 
 <div class="info-box">
-
-</div>
