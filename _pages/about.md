@@ -175,22 +175,14 @@ and ideas.
 
 <div class="info-box">
 
-### Programming
-
-- Python
-- C++
-- Visual Basic
-
-</div>
-
-<div class="info-box">
-
-### Scientific Software
-
-- LaTeX
-- Maple
-- Excel
-- Word
-- PowerPoint
-
+<ul>
+<li>Python</li>
+<li>C++</li>
+<li>Visual Basic</li>
+<li>LaTeX</li>
+<li>Maple</li>
+<li>Excel</li>
+<li>Word</li>
+<li>PowerPoint</li>
+</ul>
 </div>
