@@ -194,5 +194,3 @@ and ideas.
 - PowerPoint
 
 </div>
-
-<div class="info-box">
