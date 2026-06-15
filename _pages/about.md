@@ -87,53 +87,50 @@ and ideas.
 
 <div class="info-box">
 
-### 🎓 Education
+🎓 Education
+<ul>
+<li>Sharif University of Technology</li>
 
-**Sharif University of Technology**
+<li>B.Sc. in Physics</li>
 
-B.Sc. in Physics
-
-**GPA**
-
-# **19.07 / 20**
-
+<li>GPA : 19.30 / 20</li>
+</ul>
 </div>
 
 <div class="info-box">
 
-### 🔬 Research Interests
-
-- Spin-Gravity Coupling
-- Quantum Gravity
-- Quantum Field Theory
-- General Relativity
-- Gravitoelectromagnetism (GEM)
-
+🔬 Research Interests
+<ul>
+<li>Spin-Gravity Coupling</li>
+<li>Quantum Gravity</li>
+<li>Quantum Field Theory</li>
+<li>General Relativity</li>
+<li>Gravitoelectromagnetism (GEM)</li>
+</ul>
 </div>
 
 <div class="info-box">
 
-### 💼 Academic Experience
-
-- Teaching Assistant — Introduction to General Relativity
-- Teaching Assistant — Special Relativity
-- Online Instructor (Faradars)
-- Physics Olympiad Instructor
-- Mathematics & Physics Tutor
-
+💼 Academic Experience
+<ul>
+<li>Teaching Assistant — Introduction to General Relativity</li>
+<li>Teaching Assistant — Special Relativity</li>
+<li>Online Instructor (Faradars)</li>
+<li>Physics Olympiad Instructor</li>
+<li>Mathematics & Physics Tutor</li>
+</ul>
 </div>
 
 <div class="info-box">
 
-### 🏆 Honors
-
-- Ranked among the **Top 5%** of Physics students at Sharif University
-- Admitted to the **Direct Master's Program for Top Talents**
-- Top **1%** in the National University Entrance Exam
-- Top 80 Finalist in the National Physics Olympiad
-- High Rank in National Mathematics Olympiad
-- High Rank in National Astronomy & Astrophysics Olympiad
-
+🏆 Honors
+<ul>
+<li>Ranked among the Top 5% of Physics students at Sharif University</li>
+<li>Admitted to the Direct Master's Program for Top Talents</li>
+<li>Top 1% in the National University Entrance Exam</li>
+<li>High Rank in the National Physics Olympiad</li>
+<li>High Rank in the National Mathematics Olympiad</li>
+</ul>
 </div>
 
 </div>
