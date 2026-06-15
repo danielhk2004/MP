@@ -42,8 +42,6 @@ margin-bottom:0;
 }
 </style>
 
-# About Me
-
 <div class="profile-card">
 
 I'm Daniel Hakimi, an undergraduate Physics student at Sharif University of Technology.
@@ -61,15 +59,8 @@ This website serves as a place where I share my research, projects, notes, and i
 
 <div class="info-box">
 
-🎓 Education
----
-Sharif University of Technology
 
-B.Sc. in Physics
-
-GPA
-
-19.30 / 20
+GPA : 19.30 / 20
 
 </div>
 
@@ -79,9 +70,17 @@ GPA
 💼 Academic Experience
 
 - Teaching Assistant — Introduction to General Relativity
+
+
 - Teaching Assistant — Special Relativity
+
+
 - Online Instructor (Faradars)
+
+
 - Physics Olympiad Instructor
+
+
 - Mathematics & Physics Tutor
 
 </div>
@@ -90,10 +89,18 @@ GPA
 
 🏆 Honors
 
-- Ranked among the **Top 5%** of Physics students at Sharif University
-- Admitted to the **Direct Master's Program for Top Talents**
-- Top **1%** in the National University Entrance Exam
+- Ranked among the Top 5% of Physics students at Sharif University
+
+
+- Admitted to the Direct Master's Program for Top Talents
+
+
+- Top 1% in the National University Entrance Exam
+
+
 - High Rank in the National Physics Olympiad
+
+
 - High Rank in the National Mathematics Olympiad
 
 </div>
@@ -107,15 +114,35 @@ Research Projects
 <div class="profile-card">
 
 - Spin-Gravity Coupling
+
+
 - Mathematical Methods for Explicit MPD Solutions
+
+
 - Analytical Spinning Particle Dynamics under Gravitational Waves
+
+
 - Approximate Methods for Solving MPD Equations
+
+
 - Dirac Equation in Curved Spacetime
+
+
 - Quantum Version of MPD Equations
+
+
 - Gravitoelectromagnetism
+
+
 - Electrodynamics of Rotating Bodies
+
+
 - Quantum Electrodynamics
+
+
 - Gyroscope Motion in Earth's Gravity
+
+
 - Large Hadron Collider Theory
 
 </div>
@@ -128,7 +155,7 @@ Research Projects
 
 <div class="info-box">
 
-### Programming
+Programming
 
 - Python
 - C++
@@ -138,7 +165,7 @@ Research Projects
 
 <div class="info-box">
 
-### Scientific Software
+Scientific Software
 
 - LaTeX
 - Maple
@@ -149,7 +176,5 @@ Research Projects
 </div>
 
 <div class="info-box">
-
-</div>
 
 </div>
