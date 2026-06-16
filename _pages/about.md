@@ -126,8 +126,6 @@ and ideas.
 </ul>
 </div>
 
-</div>
-
 ---
 
 # Research Projects
