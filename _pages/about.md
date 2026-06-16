@@ -145,9 +145,9 @@ and ideas.
 
 <li>Quantum Version of MPD Equations</li>
 
-<li>Relativistic Stern–Gerlach force in Gravitoelectromagnetism and Spin-Gravity Coupling</li>
+<li>Special Topics on Gravitoelectromagnetism (GEM)</li>
 
-<li>Special Topics on Gravitoelectromagnetism</li>
+<li>Relativistic Stern–Gerlach force in GEM and Spin-Gravity Coupling</li>
 
 <li>Electrodynamics of Rotating Bodies</li>
 
