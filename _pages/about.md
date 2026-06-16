@@ -84,7 +84,6 @@ and ideas.
 
 </div>
 
----
 
 
 # 🎓 Education
@@ -126,7 +125,6 @@ and ideas.
 </ul>
 </div>
 
----
 
 # Research Projects
 
@@ -162,13 +160,10 @@ and ideas.
 
 </div>
 
----
 
 # Skills
 
-<div class="info-grid">
-
-<div class="info-box">
+<div class="profile-card">
 
 <ul>
 <li>Python</li>
