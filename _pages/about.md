@@ -12,6 +12,9 @@ margin:25px 0;
 border-radius:10px;
 box-shadow:0 2px 10px rgba(0,0,0,.08);
 line-height:1.8;
+
+width:100%;
+max-width:none;
 }
 
 .profile-card p{
@@ -54,6 +57,18 @@ padding-left:20px;
 
 li{
 margin-bottom:6px;
+}
+
+.page{
+max-width:1400px !important;
+}
+
+.page__inner-wrap{
+max-width:1400px !important;
+}
+
+.archive{
+max-width:1400px !important;
 }
 </style>
 
