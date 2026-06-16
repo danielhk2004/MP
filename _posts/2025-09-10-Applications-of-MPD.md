@@ -13,7 +13,8 @@ tags:
 ---
  In this note, we aim to derive the MPD equations for the Schwarzschild metric. Then, we examine
  the conservation of several generalized quantities within the MPD system of equations, and finally,
- we study the evolution of the spin vector of a test particle moving in Schwarzschild spacetime.
+ we study the evolution of the spin vector of a test particle moving in Schwarzschild spacetime. The theoretical framework developed in this article is based on A. Papapetrou's seminal paper Spinning Test Particles in General Relativity.
+
  This note is the first part of a series on the applications of the MPD equations. The second part
  will cover more details about a wider variety of motions in the Schwarzschild metric, as well as an
  examination of the radiative effects of the test particle and the coupling of electromagnetic waves
