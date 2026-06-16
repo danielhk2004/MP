@@ -8,7 +8,7 @@ tags:
   - Spin-Gravity Coupling
 ---
 <p align="center">
-  <img src="/MP/assets/images/MPD.jpg" width="750">
+  <img src="/MP/assets/images/MPD.png" width="750">
 </p>
 ---
  In this note, we aim to derive the MPD equations for the Schwarzschild metric. Then, we examine
