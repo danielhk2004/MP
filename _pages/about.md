@@ -86,11 +86,11 @@ and ideas.
 
 ---
 
-<div class="info-grid">
 
-<div class="info-box">
+# 🎓 Education
 
-🎓 Education
+<div class="profile-card">
+
 <ul>
 <li>Sharif University of Technology</li>
 
@@ -100,9 +100,10 @@ and ideas.
 </ul>
 </div>
 
-<div class="info-box">
+# 💼 Academic Experience
 
-💼 Academic Experience
+<div class="profile-card">
+
 <ul>
 <li>Teaching Assistant — Introduction to General Relativity</li>
 <li>Teaching Assistant — Special Relativity</li>
@@ -112,9 +113,10 @@ and ideas.
 </ul>
 </div>
 
-<div class="info-box">
+# 🏆 Honors
 
-🏆 Honors
+<div class="profile-card">
+  
 <ul>
 <li>Ranked among the Top 5% of Physics students at Sharif University</li>
 <li>Admitted to the Direct Master's Program for Top Talents</li>
