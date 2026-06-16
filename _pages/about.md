@@ -121,8 +121,8 @@ and ideas.
 <div class="profile-card">
   
 <ul>
-<li>Ranked among the Top 5% of Physics students at University</li>
 <li>Admitted to the Direct Master's Program for Top Talents</li>
+<li>Ranked among the Top 5% of Physics students at University</li>
 <li>Top 1% in the National University Entrance Exam</li>
 <li>High Rank in the National Physics Olympiad</li>
 <li>High Rank in the National Mathematics Olympiad</li>
