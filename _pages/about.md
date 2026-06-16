@@ -126,7 +126,7 @@ and ideas.
 </div>
 
 
-# Research Projects
+# 🔬 Research Projects
 
 <div class="profile-card">
 
@@ -161,7 +161,7 @@ and ideas.
 </div>
 
 
-# Skills
+# 💻 Skills
 
 <div class="profile-card">
 
