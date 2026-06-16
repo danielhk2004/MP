@@ -56,7 +56,11 @@ li{
 margin-bottom:6px;
 }
 
-.profile-card ul{
+.profile-card{
+font-size:0.9rem;
+}
+
+.info-box{
 font-size:0.9rem;
 }
 </style>
