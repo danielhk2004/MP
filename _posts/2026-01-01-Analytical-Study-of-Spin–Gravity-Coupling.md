@@ -1,7 +1,7 @@
 ---
 title: "Analytical Study of Spin–Gravity Coupling in Plane Gravitational Wave Spacetimes"
 header:
-  teaser: /assets/images/SGC.jpeg
+  teaser: "/assets/images/SGC.jpeg"
 categories:
   - Quantum
   - Gravity
