@@ -1,10 +1,14 @@
 ---
-title: "Maxwell equation in rotating frame!"
+title: "Maxwell equation in rotating frame"
 categories:
   - Electromagnetic
 tags:
   - Maxwell equations
   - Rotating frame
+---
+<p align="center">
+  <img src="/MP/assets/images/MXL.png" width="750">
+</p>
 ---
 In this note, we have attempted to derive Maxwell's equations in a rotating frame. This problem holds great significance in electromagnetism and relativity. For instance, this area is highly suitable for the study of nonlocality. As an example, we could relate the final conclusions of this note to theories like GEM or explore frame-dragging from a different perspective!
 
