@@ -60,14 +60,11 @@ margin-bottom:6px;
 <div class="profile-card">
 
 <p>
-I'm <strong>Daniel Hakimi</strong>, a Physics student at
-<strong>Sharif University of Technology</strong>.
+I'm Daniel Hakimi, a Physics student at Sharif University of Technology.
 </p>
 
 <p>
-My research interests are centered on <strong>General Relativity</strong>,
-<strong>Quantum Gravity</strong>, <strong>Quantum Field Theory</strong>, and
-<strong>Spin-Gravity Coupling</strong>. I enjoy studying the mathematical
+My research interests are centered on General Relativity, Quantum Gravity, Quantum Field Theory, and Spin-Gravity Coupling. I enjoy studying the mathematical
 foundations of modern theoretical physics and exploring the interface between
 gravity and quantum theory.
 </p>
