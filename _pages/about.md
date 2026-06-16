@@ -102,18 +102,6 @@ and ideas.
 
 <div class="info-box">
 
-🔬 Research Interests
-<ul>
-<li>Spin-Gravity Coupling</li>
-<li>Quantum Gravity</li>
-<li>Quantum Field Theory</li>
-<li>General Relativity</li>
-<li>Gravitoelectromagnetism (GEM)</li>
-</ul>
-</div>
-
-<div class="info-box">
-
 💼 Academic Experience
 <ul>
 <li>Teaching Assistant — Introduction to General Relativity</li>
