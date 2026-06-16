@@ -78,7 +78,7 @@ gravity and quantum theory.
 </p>
 
 <p>
-Outside academia, I hold a black belt in Karate and have won medals in national-level competitions. I also enjoy playing basketball and piano.
+Outside academia, I hold a black belt in Karate and have won medals in national-level competitions. I also play basketball and the piano.
 </p>
   
 <p>
