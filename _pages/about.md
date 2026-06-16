@@ -134,7 +134,9 @@ and ideas.
 
 <ul>
 <li>Spin-Gravity Coupling</li>
-  
+
+<li>Mathisson–Papapetrou–Dixon (MPD) Equations</li>
+
 <li>Mathematical Methods for Explicit MPD Solutions</li>
 
 <li>Analytical Spinning Particle Dynamics under Gravitational Waves</li>
