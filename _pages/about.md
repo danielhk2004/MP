@@ -57,7 +57,7 @@ margin-bottom:6px;
 }
 
 .profile-card{
-font-size:0.85rem;
+font-size:0.9rem;
 }
 
 .info-box{
@@ -117,7 +117,7 @@ and ideas.
 <div class="profile-card">
   
 <ul>
-<li>Ranked among the Top 5% of Physics students at Sharif University</li>
+<li>Ranked among the Top 5% of Physics students at University</li>
 <li>Admitted to the Direct Master's Program for Top Talents</li>
 <li>Top 1% in the National University Entrance Exam</li>
 <li>High Rank in the National Physics Olympiad</li>
