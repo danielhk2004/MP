@@ -139,11 +139,11 @@ and ideas.
 
 <li>Analytical Spinning Particle Dynamics under Gravitational Waves</li>
 
-<li>Approximate Methods for Solving MPD Equations</li>
+<li>Approximate Methods for Solving the MPD Equations</li>
 
 <li>Dirac Equation in Curved Spacetime</li>
 
-<li>Quantum Formulation of MPD Equations</li>
+<li>Quantum Formulation of the MPD Equations</li>
 
 <li>Selected Topics in Gravitoelectromagnetism (GEM)</li>
 
