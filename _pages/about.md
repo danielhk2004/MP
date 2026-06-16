@@ -143,15 +143,15 @@ and ideas.
 
 <li>Dirac Equation in Curved Spacetime</li>
 
-<li>Quantum Version of MPD Equations</li>
+<li>Quantum Formulation of MPD Equations</li>
 
-<li>Special Topics on Gravitoelectromagnetism (GEM)</li>
+<li>Selected Topics in Gravitoelectromagnetism (GEM)</li>
 
 <li>Relativistic Stern–Gerlach force in GEM and Spin-Gravity Coupling</li>
 
 <li>Electrodynamics of Rotating Bodies</li>
 
-<li>Special Topics on Quantum Electrodynamics</li>
+<li>Selected Topics in Quantum Electrodynamics</li>
 
 <li>Gyroscope Motion in Earth's Gravity</li>
 
