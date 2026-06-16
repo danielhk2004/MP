@@ -155,7 +155,7 @@ and ideas.
 
 <li>Gyroscope Motion in Earth's Gravity</li>
 
-<li>Large Hadron Collider Theory</li>
+<li>Theoretical Aspects of the Large Hadron Collider</li>
 </ul>
 
 </div>
