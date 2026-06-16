@@ -153,9 +153,9 @@ and ideas.
 
 <li>Selected Topics in Quantum Electrodynamics</li>
 
-<li>Gyroscope Motion in Earth's Gravity</li>
-
 <li>Theoretical Aspects of the Large Hadron Collider</li>
+
+<li>Simulation of Gyroscope Dynamics in Earth's Gravitational Field</li>
 </ul>
 
 </div>
