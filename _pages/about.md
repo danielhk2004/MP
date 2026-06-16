@@ -128,7 +128,7 @@ and ideas.
 
 ---
 
-# Current Research Projects
+# Research Projects
 
 <div class="profile-card">
 
