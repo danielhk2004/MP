@@ -7,6 +7,10 @@ tags:
   - MPD equations
   - Spin-Gravity Coupling
 ---
+<p align="center">
+  <img src="/MP/assets/images/MPD.jpg" width="750">
+</p>
+---
  In this note, we aim to derive the MPD equations for the Schwarzschild metric. Then, we examine
  the conservation of several generalized quantities within the MPD system of equations, and finally,
  we study the evolution of the spin vector of a test particle moving in Schwarzschild spacetime.
