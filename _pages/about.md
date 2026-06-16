@@ -57,7 +57,7 @@ margin-bottom:6px;
 }
 
 .profile-card{
-font-size:0.9rem;
+font-size:0.85rem;
 }
 
 .info-box{
