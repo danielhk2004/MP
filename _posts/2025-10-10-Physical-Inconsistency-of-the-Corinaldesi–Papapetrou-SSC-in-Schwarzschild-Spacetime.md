@@ -19,4 +19,4 @@ We demonstrate that this choice predicts an electromagnetic-like spectral struct
 
 Our analysis highlights the crucial role of selecting an appropriate spin supplementary condition in the study of spin–gravity coupling and the motion of spinning particles, and suggests that the Corinaldesi–Papapetrou condition should be regarded primarily as a mathematical construction rather than a physically consistent description of nature.
 
-[Physical Consistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime]({{ site.baseurl }}/files/Physical Consistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime.pdf)
+[Physical Inconsistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime]({{ site.baseurl }}/files/Physical Consistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime.pdf)
