@@ -1,5 +1,5 @@
 ---
-title: "Physical Consistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime"
+title: "Physical Inconsistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime"
 categories:
   - Quantum
   - Gravity
