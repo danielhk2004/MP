@@ -294,34 +294,3 @@ html, body {
     max-width: 100% !important;
   }
 }
-@media (max-width: 768px) {
-
-  /* کل ساختار sidebar رو reset کن */
-  .sidebar {
-    position: static !important;
-    float: none !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 !important;
-    padding: 15px !important;
-    overflow: visible !important;
-  }
-
-  /* خود پروفایل */
-  .my-profile {
-    display: block !important;
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 auto !important;
-    text-align: center !important;
-  }
-
-  /* عکس */
-  .my-profile__avatar {
-    display: block !important;
-    width: 90px !important;
-    height: 90px !important;
-    margin: 0 auto 10px auto !important;
-  }
-
-}
