@@ -280,3 +280,14 @@ h1.page__title:empty {
 .site-title {
   transform: translateX(-80px);
 }
+.page {
+  max-width: 1200px !important;
+}
+
+.page__inner-wrap {
+  max-width: 1100px !important;
+}
+
+.archive__item {
+  width: 100%;
+}
