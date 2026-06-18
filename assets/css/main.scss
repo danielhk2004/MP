@@ -274,12 +274,7 @@ h1.page__title:empty {
 .sidebar .author,
 .sidebar .author__content,
 .sidebar .author__avatar {
-  opacity: 1;
-  transition: opacity 0.3s ease;
-}
-
-.sidebar .author:hover,
-.sidebar .author:hover .author__content,
-.sidebar .author:hover .author__avatar {
-  opacity: 1;
+  opacity: 1 !important;
+  transform: scale(1);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, filter 0.25s ease;
 }
