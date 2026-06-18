@@ -201,17 +201,27 @@ a:hover {
   padding-top: 0 !important;
 }
 body :is(
-  h1, h2, h3, h4,
-  .btn, button,
-  a.tag, .tag,
-  .taxonomy__index,
-  .taxonomy__count,
-  .page__meta,
-  .page__taxonomy,
+  body > h1,
+  body > h2,
+  body > h3,
+
+  .page__title,
+  .page__lead,
+
   .archive__subtitle,
   .archive__title,
-  .page__title,
-  .page__lead
+
+  .page__taxonomy,
+  .taxonomy__index,
+  .taxonomy__count,
+
+  .btn,
+  .btn--primary,
+  .btn--info,
+  .btn--inverse,
+
+  a.tag,
+  .tag
 ) {
   background: rgba(255,255,255,.88) !important;
   backdrop-filter: blur(10px);
