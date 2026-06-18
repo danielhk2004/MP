@@ -272,6 +272,6 @@ h1.page__title:empty {
 .site-title {
   transform: translateX(-50px);
 }
-.page {
-  width: calc(100% + 50px) !important;
+.page__content {
+  margin-right: -80px;
 }
