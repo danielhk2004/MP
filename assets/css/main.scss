@@ -284,9 +284,10 @@ h1.page__title:empty {
   width: calc(100% + 250px);
   max-width: none !important;
 }
-.page__content {
+.page__inner-wrap {
   max-width: none !important;
   width: calc(100% + 250px);
+  margin-right: -125px;
 }
 html, body {
   overflow-x: hidden !important;
