@@ -272,6 +272,15 @@ h1.page__title:empty {
   display: none !important;
 }
 .archive__item {
-  width: calc(100% + 130px);
+  width: calc(100% + 125px);
   max-width: none !important;
+}
+.my-profile,
+.author,
+.sidebar__right,
+.sidebar {
+  margin-left: -50px !important;
+}
+.site-title {
+  transform: translateX(-50px);
 }
