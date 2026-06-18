@@ -176,31 +176,10 @@ a:hover {
 
 }
 
-.author {
-  background: rgba(255,255,255,.88) !important;
-  border-radius: 20px;
-  padding: 20px;
-  border: 1px solid rgba(0,0,0,.08);
-  overflow: hidden;
-}
-.author__avatar,
-.author__content,
-.author__urls {
-  background: transparent !important;
-  border: none !important;
-  padding: 0 !important;
-  margin: 0 !important;
-}
 .sidebar {
   background: rgba(255,255,255,.88) !important;
   border-radius: 20px;
   padding: 20px;
-}
-.sidebar {
-  padding-top: 5px;
-}
-.author__content:hover,
-.author__urls:hover,
-.author__avatar:hover {
-  outline: 3px solid red !important;
+  padding-top: 20px;
+  margin-top: 30px;
 }
