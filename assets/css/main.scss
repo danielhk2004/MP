@@ -117,9 +117,7 @@ a:hover {
   border-radius: 12px;
 
   border: none;
-
 }
-
 .btn:hover,
 .btn--primary:hover,
 .btn--info:hover,
@@ -168,7 +166,6 @@ a:hover {
    
   max-width: none !important;
 }
-
 .sidebar {
   background: rgba(255,255,255,.99) !important;
   border-radius: 20px;
@@ -180,7 +177,6 @@ a:hover {
   padding-top: 15px !important;
   margin-bottom: 15px !important;
 }
-
 .archive__item h2,
 .archive__item h3 {
   margin-top: 0 !important;
@@ -242,6 +238,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   text-align: center;
+   
 }
 
 /* Archive cards (پست‌ها) */
@@ -252,6 +249,7 @@ a:hover {
   padding: 20px;
   margin-bottom: 15px;
 }
+
 /* داخل کارت‌ها هیچ تغییری در layout نمی‌دهیم */
 .archive__item h2,
 .archive__item h3,
