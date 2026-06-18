@@ -200,12 +200,11 @@ a:hover {
 .archive__item__content {
   padding-top: 0 !important;
 }
-.page__title,
-h1.page__title {
+:is(h1, h2, h3):not(.archive__item-title) {
   display: inline-block;
-  background: rgba(255,255,255,.75);
+  background: rgba(255,255,255,.85);
   backdrop-filter: blur(12px);
-  padding: 10px 18px;
-  border-radius: 14px;
-  box-shadow: 0 4px 20px rgba(0,0,0,.15);
+  -webkit-backdrop-filter: blur(12px);
+  padding: 6px 12px;
+  border-radius: 12px;
 }
