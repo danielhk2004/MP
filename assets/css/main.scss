@@ -92,18 +92,6 @@ body::before {
    Sidebar Glass
 ========================== */
 
-.author__content,
-.author__urls {
-
-  background: transparent !important;
-
-  backdrop-filter: none !important;
-
-  border-radius: 0;
-
-  padding: 0;
-
-}
 
 /* ==========================
    Links
@@ -187,41 +175,17 @@ a:hover {
   border-radius: 20px;
 
 }
-.author__name,
-.author__bio,
-.author__urls a {
-    color: white !important;
-    opacity: 1 !important;
-}
 
-.author__avatar img {
-    opacity: 1 !important;
-}
-.author__avatar img,
-.author__avatar img:hover,
-.author__name,
-.author__bio,
-.author__urls a,
-.author__urls a:hover {
-    opacity: 1 !important;
-    filter: none !important;
-    transform: none !important;
-}
 .author {
 
-  background: #ffffff !important;
+  background: rgba(255,255,255,.08) !important;
 
-  border-radius: 12px;
+  backdrop-filter: blur(12px);
 
-  padding: 15px;
+  border-radius: 20px;
 
-}
-.author {
+  padding: 20px;
 
-  background: rgba(15,23,42,.85) !important;
-
-  border-radius: 16px;
-
-  padding: 15px;
+  border: 1px solid rgba(255,255,255,.1);
 
 }
