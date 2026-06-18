@@ -183,19 +183,3 @@ a:hover {
   padding-top: 20px;
   margin-top: 30px;
 }
-.sidebar:hover {
-  box-shadow: none !important;
-  transform: none !important;
-}
-
-.sidebar *:hover {
-  background: transparent !important;
-  box-shadow: none !important;
-  transform: none !important;
-  outline: none !important;
-}
-
-.sidebar,
-.sidebar * {
-  transition: none !important;
-}
