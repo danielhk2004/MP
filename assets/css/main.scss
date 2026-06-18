@@ -287,3 +287,6 @@ h1.page__title:empty {
 .site-title {
   transform: translateX(-50px);
 }
+.page__inner-wrap {
+  max-width: none !important;
+}
