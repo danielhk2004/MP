@@ -277,3 +277,6 @@ h1.page__title:empty {
 .sidebar {
   margin-left: -80px !important;
 }
+.site-title {
+  transform: translateX(-80px);
+}
