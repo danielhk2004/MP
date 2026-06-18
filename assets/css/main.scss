@@ -54,13 +54,15 @@ body::before {
 .page__content p,
 .page__content li,
 .page__content ul,
-.page__content ol,
-.page__title,
-.archive__item-title,
-.sidebar,
-.author__content {
+.page__content ol {
 
-  color: #f8fafc !important;
+  color: #111827 !important;
+
+}
+
+.page__title {
+
+  color: #111827 !important;
 
 }
 
