@@ -279,8 +279,20 @@ h1.page__title:empty {
   transform: translateX(60px);
 }
 .page__taxonomy {
-  transform: translateX(50px);
+  transform: translateX(60px);
 }
 .page__taxonomy {
   margin-bottom: 4px !important;
+}
+.page__meta {
+  background: rgba(255,255,255,.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+
+  padding: 6px 12px;
+  border-radius: 12px;
+
+  display: inline-block;
+
+  transform: translateX(60px);
 }
