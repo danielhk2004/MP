@@ -1,124 +1,182 @@
 ---
 ---
-
 @import "minimal-mistakes";
 
-/* ===========================
-   Galaxy Theme
-=========================== */
+/* ==========================
+   Galaxy Background
+========================== */
 
 body {
-    background: url("/MP/assets/images/galaxy-bg.jpg") center center / cover fixed no-repeat;
+
+  background-image: url("../images/galaxy-bg.jpg");
+
+  background-size: cover;
+
+  background-position: center;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
 }
 
-/* لایه‌های قالب را شفاف کن */
-.initial-content,
-.page,
-.page__inner-wrap,
-.layout--single,
-.archive,
-.archive__item,
-.sidebar,
-.masthead,
-.greedy-nav {
-    background: transparent !important;
-}
-
-/* متن‌ها */
-body,
-.page__content,
-.page__title,
-.archive__item-title {
-    color: white;
-}
-/* ===========================
+/* ==========================
    Dark Overlay
-=========================== */
+========================== */
 
 body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    background: rgba(3, 7, 18, 0.65);
-    z-index: -1;
+
+  content: "";
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width: 100%;
+
+  height: 100%;
+
+  background: rgba(5,10,20,.65);
+
+  pointer-events: none;
+
+  z-index: -1;
+
 }
-/* ===========================
-   Glass Navigation
-=========================== */
 
-.masthead {
+/* ==========================
+   Readability
+========================== */
 
-    background: rgba(15, 23, 42, .55) !important;
+.page__content,
+.page__content p,
+.page__content li,
+.page__content ul,
+.page__content ol,
+.page__title,
+.archive__item-title,
+.sidebar,
+.author__content {
 
-    backdrop-filter: blur(15px);
-
-    border-bottom: 1px solid rgba(255,255,255,.12);
+  color: #f8fafc !important;
 
 }
+
+/* ==========================
+   Glass Navbar
+========================== */
+
+.masthead,
+.greedy-nav {
+
+  background: rgba(15,23,42,.55) !important;
+
+  backdrop-filter: blur(15px);
+
+  -webkit-backdrop-filter: blur(15px);
+
+  border-bottom: 1px solid rgba(255,255,255,.1);
+
+}
+
+/* ==========================
+   Sidebar Glass
+========================== */
+
 .author__content,
 .author__urls {
 
-    background: rgba(255,255,255,.06);
+  background: rgba(255,255,255,.06) !important;
 
-    backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
 
-    border-radius: 18px;
+  border-radius: 16px;
 
-    padding: 15px;
-
-}
-a{
-
-color:#7dd3fc;
-
-transition:.3s;
+  padding: 15px;
 
 }
 
-a:hover{
+/* ==========================
+   Links
+========================== */
 
-color:#38bdf8;
+a {
 
-text-shadow:0 0 12px #38bdf8;
+  color: #7dd3fc !important;
 
-}
-.btn{
-
-background:#2563eb;
-
-border-radius:10px;
-
-border:none;
-
-transition:.3s;
+  transition: .3s;
 
 }
 
-.btn:hover{
+a:hover {
 
-background:#3b82f6;
+  color: #38bdf8 !important;
 
-box-shadow:0 0 20px #3b82f6;
-
-}
-.archive__item{
-
-background:rgba(255,255,255,.07);
-
-backdrop-filter:blur(14px);
-
-border-radius:20px;
-
-padding:20px;
-
-transition:.3s;
+  text-shadow: 0 0 10px #38bdf8;
 
 }
 
-.archive__item:hover{
+/* ==========================
+   Buttons
+========================== */
 
-transform:translateY(-5px);
+.btn,
+.btn--primary,
+.btn--info,
+.btn--inverse {
 
-box-shadow:0 15px 35px rgba(0,0,0,.4);
+  background: #2563eb !important;
+
+  border-radius: 12px;
+
+  border: none;
+
+}
+
+.btn:hover,
+.btn--primary:hover,
+.btn--info:hover,
+.btn--inverse:hover {
+
+  background: #3b82f6 !important;
+
+  box-shadow: 0 0 15px rgba(59,130,246,.8);
+
+}
+
+/* ==========================
+   Post Cards
+========================== */
+
+.archive__item {
+
+  background: rgba(255,255,255,.07);
+
+  backdrop-filter: blur(12px);
+
+  border-radius: 20px;
+
+  padding: 20px;
+
+  transition: .3s;
+
+}
+
+.archive__item:hover {
+
+  transform: translateY(-5px);
+
+}
+.page__content {
+
+  background: rgba(0,0,0,.35);
+
+  backdrop-filter: blur(8px);
+
+  padding: 25px;
+
+  border-radius: 20px;
 
 }
