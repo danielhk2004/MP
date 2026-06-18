@@ -1,0 +1,49 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* Galaxy theme */
+body {
+  background:
+    linear-gradient(rgba(2, 6, 23, 0.84), rgba(2, 6, 23, 0.90)),
+    url("/MP/assets/images/galaxy-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.masthead {
+  background: rgba(5, 8, 22, 0.88);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255,255,255,0.12);
+}
+
+.page,
+.archive,
+.page__content {
+  background: rgba(10, 15, 35, 0.70);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 20px;
+}
+
+.archive__item {
+  background: rgba(15, 20, 40, 0.75);
+  border: 1px solid rgba(255,255,255,0.10);
+  border-radius: 18px;
+  transition: 0.3s ease;
+}
+
+.archive__item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 0 25px rgba(96,165,250,0.25);
+}
+
+a {
+  color: #9ad7ff;
+}
+
+a:hover {
+  color: #c084fc;
+}
