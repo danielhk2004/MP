@@ -366,17 +366,40 @@ h1.page__title:empty {
   }
 
 }
+/* ==========================
+   Mobile Reset
+========================== */
+
 @media (max-width: 768px) {
 
+  .sidebar,
+  .sidebar__right,
+  .author,
+  .my-profile,
+  .archive__item,
   .page,
-  .layout--single,
+  .page__content,
   .page__inner-wrap,
-  .page__content {
+  .layout--single,
+  .page__title,
+  .page__title.p-name,
+  .site-title,
+  .page__taxonomy,
+  .taxonomy__index,
+  .taxonomy__count {
+
     margin-left: 0 !important;
     margin-right: 0 !important;
+
+    padding-left: initial !important;
+    padding-right: initial !important;
+
     left: auto !important;
     right: auto !important;
+
     transform: none !important;
+    translate: none !important;
+
     width: auto !important;
     max-width: 100% !important;
   }
