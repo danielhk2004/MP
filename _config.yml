@@ -17,7 +17,7 @@ title: Physics and Mathematics
 email:
 description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -77,6 +77,7 @@ defaults:
       comments: true
       share: false
       related: false
+      pagination: false
   # _pages
   - scope:
       path: "_pages"
