@@ -264,3 +264,9 @@ a:hover {
 .archive__item p {
   margin-top: 0 !important;
 }
+.page__meta:empty,
+.taxonomy__count:empty,
+.page__taxonomy:empty,
+.archive__item-excerpt:empty {
+  display: none !important;
+}
