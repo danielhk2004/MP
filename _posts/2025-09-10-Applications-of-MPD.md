@@ -7,7 +7,7 @@ tags:
   - MPD equations
   - Spin-Gravity Coupling
 ---
-<p style="color:#0f172a !important; font-weight:bold;">
+<p style="color:#1e3a8a !important; font-weight:bold;">
 Applications of MPD
 </p>
 <p align="center">
