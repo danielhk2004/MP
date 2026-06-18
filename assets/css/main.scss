@@ -271,31 +271,3 @@ a:hover {
 h1.page__title:empty {
   display: none !important;
 }
-.my-profile,
-.author,
-.sidebar__right,
-.sidebar {
-  margin-left: -125px !important;
-}
-.site-title {
-  transform: translateX(-125px);
-}
-.archive__item {
-  width: calc(100% + 250px);
-  max-width: none !important;
-}
-.page__inner-wrap {
-  max-width: none !important;
-  width: calc(100% + 250px);
-  margin-right: -125px;
-}
-html, body {
-  overflow-x: hidden !important;
-}
-@media (max-width: 768px) {
-  .archive__item {
-    width: 100% !important;
-    margin-right: 0 !important;
-    max-width: 100% !important;
-  }
-}
