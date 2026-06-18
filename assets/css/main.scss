@@ -275,12 +275,18 @@ h1.page__title:empty {
 .author,
 .sidebar__right,
 .sidebar {
-  margin-left: -120px !important;
+  margin-left: -125px !important;
 }
 .site-title {
-  transform: translateX(-120px);
+  transform: translateX(-125px);
 }
 .archive__item {
   width: calc(100% + 250px);
   max-width: none !important;
+}
+@media (max-width: 768px) {
+  .archive__item {
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
 }
