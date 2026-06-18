@@ -6,9 +6,7 @@ tags:
   - Maxwell's equations
   - Rotating frame
 ---
-<p style="color:#7dd3fc !important; font-weight:bold;">
 Maxwell's equations in rotating frame
-</p>
 <p align="center">
   <img src="/MP/assets/images/MXL.png" width="750">
 </p>
