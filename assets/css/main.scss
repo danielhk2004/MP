@@ -366,3 +366,19 @@ h1.page__title:empty {
   }
 
 }
+@media (max-width: 768px) {
+
+  .page,
+  .layout--single,
+  .page__inner-wrap,
+  .page__content {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    left: auto !important;
+    right: auto !important;
+    transform: none !important;
+    width: auto !important;
+    max-width: 100% !important;
+  }
+
+}
