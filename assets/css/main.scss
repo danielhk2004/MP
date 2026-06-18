@@ -313,3 +313,8 @@ h1.page__title:empty {
 .page__footer-follow {
   display: none !important;
 }
+.page__footer {
+  background: transparent !important;
+  border-top: none !important;
+  box-shadow: none !important;
+}
