@@ -74,10 +74,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: true
+      comments: false
       share: false
       related: false
-      pagination: false
   # _pages
   - scope:
       path: "_pages"
