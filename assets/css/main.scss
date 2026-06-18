@@ -318,3 +318,51 @@ h1.page__title:empty {
   border-top: none !important;
   box-shadow: none !important;
 }
+/* ==========================
+   Mobile Fix
+========================== */
+
+@media (max-width: 768px) {
+
+  /* پروفایل */
+  .my-profile,
+  .author,
+  .sidebar,
+  .sidebar__right {
+    margin-left: 0 !important;
+    width: auto !important;
+  }
+
+  /* عنوان سایت */
+  .site-title {
+    transform: none !important;
+  }
+
+  /* کارت‌های پست */
+  .archive__item {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* محتوای داخل پست */
+  .page__content {
+    margin-left: 0 !important;
+    width: auto !important;
+    max-width: 100% !important;
+  }
+
+  /* عنوان مقاله */
+  .page__title,
+  .page__title.p-name {
+    margin-left: 0 !important;
+    transform: none !important;
+  }
+
+  /* تگ‌ها و کتگوری‌ها */
+  .page__taxonomy,
+  .taxonomy__index,
+  .taxonomy__count {
+    margin-left: 0 !important;
+  }
+
+}
