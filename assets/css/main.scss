@@ -173,7 +173,10 @@ a:hover {
   padding: 25px;
 
   border-radius: 20px;
-
+   
+  width: calc(100% + 125px);
+   
+  max-width: none !important;
 }
 
 .sidebar {
