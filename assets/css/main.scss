@@ -187,3 +187,13 @@ a:hover {
   border-radius: 20px;
 
 }
+.author__name,
+.author__bio,
+.author__urls a {
+    color: white !important;
+    opacity: 1 !important;
+}
+
+.author__avatar img {
+    opacity: 1 !important;
+}
