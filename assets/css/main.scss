@@ -177,19 +177,12 @@ a:hover {
 }
 
 .author {
-
-  background: rgba(255,255,255,.08) !important;
-
-  backdrop-filter: blur(12px);
-
+  background: rgba(255,255,255,.88) !important;
   border-radius: 20px;
-
   padding: 20px;
-
-  border: 1px solid rgba(255,255,255,.1);
-
+  border: 1px solid rgba(0,0,0,.08);
 }
-.author {
+.sidebar .author__content {
   background: rgba(255,255,255,.88) !important;
   border-radius: 20px;
   padding: 20px;
