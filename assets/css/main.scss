@@ -296,3 +296,10 @@ h1.page__title:empty {
 
   transform: translateX(60px);
 }
+.pagination {
+  display: none !important;
+}
+
+.pagination--pager {
+  display: none !important;
+}
