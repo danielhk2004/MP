@@ -175,9 +175,19 @@ a:hover {
   border-radius: 20px;
 
 }
+
 .author {
   background: rgba(255,255,255,.88) !important;
   border-radius: 20px;
   padding: 20px;
   border: 1px solid rgba(0,0,0,.08);
+  overflow: hidden;
+}
+.author__avatar,
+.author__content,
+.author__urls {
+  background: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
 }
