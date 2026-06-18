@@ -271,3 +271,15 @@ a:hover {
 h1.page__title:empty {
   display: none !important;
 }
+.sidebar .author,
+.sidebar .author__content,
+.sidebar .author__avatar {
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
+}
+
+.sidebar .author:hover,
+.sidebar .author:hover .author__content,
+.sidebar .author:hover .author__avatar {
+  opacity: 1;
+}
