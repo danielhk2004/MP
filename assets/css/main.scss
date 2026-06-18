@@ -271,20 +271,3 @@ a:hover {
 h1.page__title:empty {
   display: none !important;
 }
-.sidebar .author,
-.sidebar .author__content,
-.sidebar .author__avatar {
-  opacity: 1 !important;
-  transform: none !important;
-  filter: none !important;
-  box-shadow: none !important;
-  transition: none !important;
-}
-.sidebar .author:hover,
-.sidebar .author__content:hover,
-.sidebar .author__avatar:hover {
-  transform: none !important;
-  opacity: 1 !important;
-  filter: none !important;
-  box-shadow: none !important;
-}
