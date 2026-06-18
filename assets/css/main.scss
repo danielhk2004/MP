@@ -284,6 +284,10 @@ h1.page__title:empty {
   width: calc(100% + 250px);
   max-width: none !important;
 }
+.page__content {
+  max-width: none !important;
+  width: calc(100% + 250px);
+}
 html, body {
   overflow-x: hidden !important;
 }
