@@ -197,3 +197,13 @@ a:hover {
 .author__avatar img {
     opacity: 1 !important;
 }
+.author__avatar img,
+.author__avatar img:hover,
+.author__name,
+.author__bio,
+.author__urls a,
+.author__urls a:hover {
+    opacity: 1 !important;
+    filter: none !important;
+    transform: none !important;
+}
