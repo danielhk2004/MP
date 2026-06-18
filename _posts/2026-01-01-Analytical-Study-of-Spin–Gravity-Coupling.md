@@ -7,7 +7,7 @@ tags:
   - MPD equations
   - Spin-Gravity Coupling
 ---
-<p style="color:#7dd3fc !important; font-weight:bold;">
+<p style="color:#0f172a !important; font-weight:bold;">
 Analytical Study of Spin–Gravity Coupling in Plane Gravitational Wave Spacetimes
 </p>
 <p align="center">
