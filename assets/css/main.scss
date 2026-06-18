@@ -264,14 +264,6 @@ a:hover {
 .archive__item p {
   margin-top: 0 !important;
 }
-.page__meta:empty,
-.taxonomy__count:empty,
-.page__taxonomy:empty,
-.archive__item-excerpt:empty {
+h1.page__title:empty {
   display: none !important;
-}
-.archive__item span,
-.page__meta span {
-  color: inherit !important;
-  opacity: 1 !important;
 }
