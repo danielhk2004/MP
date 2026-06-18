@@ -67,3 +67,58 @@ body::before {
     padding: 15px;
 
 }
+a{
+
+color:#7dd3fc;
+
+transition:.3s;
+
+}
+
+a:hover{
+
+color:#38bdf8;
+
+text-shadow:0 0 12px #38bdf8;
+
+}
+.btn{
+
+background:#2563eb;
+
+border-radius:10px;
+
+border:none;
+
+transition:.3s;
+
+}
+
+.btn:hover{
+
+background:#3b82f6;
+
+box-shadow:0 0 20px #3b82f6;
+
+}
+.archive__item{
+
+background:rgba(255,255,255,.07);
+
+backdrop-filter:blur(14px);
+
+border-radius:20px;
+
+padding:20px;
+
+transition:.3s;
+
+}
+
+.archive__item:hover{
+
+transform:translateY(-5px);
+
+box-shadow:0 15px 35px rgba(0,0,0,.4);
+
+}
