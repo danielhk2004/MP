@@ -294,3 +294,17 @@ html, body {
     max-width: 100% !important;
   }
 }
+@media (max-width: 768px) {
+
+  .my-profile {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 15px !important;
+  }
+
+  .my-profile__avatar {
+    width: 80px !important;
+    height: 80px !important;
+  }
+
+}
