@@ -23,3 +23,4 @@ Applications of MPD
 Indeed, the choice of supplementary condition plays a crucial role in the analysis of spinning-particle motion in curved spacetime, since an arbitrary supplementary condition does not necessarily yield physically meaningful results. In this note, we adopt one specific supplementary condition and, in subsequent notes, we will demonstrate that it can give rise to several peculiar and physically problematic features.
  
 [Applications of MPD]({{ site.baseurl }}/files/MPD-AP.pdf)
+
