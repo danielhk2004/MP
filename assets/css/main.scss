@@ -303,3 +303,7 @@ h1.page__title:empty {
 .pagination--pager {
   display: none !important;
 }
+.archive__title,
+.archive__subtitle {
+  transform: translateX(-50px);
+}
