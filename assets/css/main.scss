@@ -306,3 +306,6 @@ h1.page__title:empty {
 .page__title {
   margin-left: -60px !important;
 }
+.page__title.p-name {
+  transform: translateX(60px);
+}
