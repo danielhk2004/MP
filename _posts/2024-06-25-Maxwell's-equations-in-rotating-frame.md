@@ -3,7 +3,7 @@ title: "Maxwell's equations in rotating frame"
 categories:
   - Electromagnetic
 tags:
-  - Maxwell's equationss
+  - Maxwell's equations
   - Rotating frame
 ---
 Maxwell's equations in rotating frame
