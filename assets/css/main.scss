@@ -1,5 +1,6 @@
 ---
 ---
+
 @import "minimal-mistakes";
 
 /* ===========================
@@ -7,6 +8,10 @@
 =========================== */
 
 body{
-    background:#020617;
-    color:white;
+    background-image: url("/assets/images/galaxy-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
 }
