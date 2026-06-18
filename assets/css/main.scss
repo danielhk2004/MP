@@ -200,11 +200,10 @@ a:hover {
 .archive__item__content {
   padding-top: 0 !important;
 }
-:is(h1, h2, h3):not(.archive__item-title) {
-  display: inline-block;
+.glass-ui {
   background: rgba(255,255,255,.85);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
-  padding: 6px 12px;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border-radius: 12px;
+  padding: 6px 10px;
 }
