@@ -19,11 +19,9 @@ body {
   background-attachment: fixed;
 
 }
-
 /* ==========================
    Dark Overlay
 ========================== */
-
 body::before {
 
   content: "";
@@ -43,9 +41,7 @@ body::before {
   pointer-events: none;
 
   z-index: -1;
-
 }
-
 /* ==========================
    Readability
 ========================== */
