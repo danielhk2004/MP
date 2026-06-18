@@ -271,3 +271,9 @@ a:hover {
 h1.page__title:empty {
   display: none !important;
 }
+.my-profile,
+.author,
+.sidebar__right,
+.sidebar {
+  margin-left: -10px !important;
+}
