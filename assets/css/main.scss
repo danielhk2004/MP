@@ -31,3 +31,14 @@ body,
 .archive__item-title {
     color: white;
 }
+/* ===========================
+   Dark Overlay
+=========================== */
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(3, 7, 18, 0.65);
+    z-index: -1;
+}
