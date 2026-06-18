@@ -183,3 +183,19 @@ a:hover {
   padding-top: 20px;
   margin-top: 30px;
 }
+.archive__item {
+  padding-top: 10px !important;
+}
+
+.archive__item h2,
+.archive__item h3 {
+  margin-top: 0 !important;
+}
+
+.archive__item p {
+  margin-top: 0 !important;
+}
+
+.archive__item__content {
+  padding-top: 0 !important;
+}
