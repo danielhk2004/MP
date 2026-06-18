@@ -199,6 +199,8 @@ a:hover {
 .sidebar {
   padding-top: 5px;
 }
-.author:hover {
+.author__content:hover,
+.author__urls:hover,
+.author__avatar:hover {
   outline: 3px solid red !important;
 }
