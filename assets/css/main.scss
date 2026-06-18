@@ -7,11 +7,27 @@
    Galaxy Theme
 =========================== */
 
-body{
-    background-image: url("/MP/assets/images/galaxy-bg.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+body {
+    background: url("/MP/assets/images/galaxy-bg.jpg") center center / cover fixed no-repeat;
+}
+
+/* لایه‌های قالب را شفاف کن */
+.initial-content,
+.page,
+.page__inner-wrap,
+.layout--single,
+.archive,
+.archive__item,
+.sidebar,
+.masthead,
+.greedy-nav {
+    background: transparent !important;
+}
+
+/* متن‌ها */
+body,
+.page__content,
+.page__title,
+.archive__item-title {
     color: white;
 }
