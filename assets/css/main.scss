@@ -200,33 +200,67 @@ a:hover {
 .archive__item__content {
   padding-top: 0 !important;
 }
-body :is(
-  body > h1,
-  body > h2,
-  body > h3,
+/* ==========================
+   GLASS SYSTEM (SAFE VERSION)
+   فقط ظاهر، بدون تغییر layout
+========================== */
 
-  .page__title,
-  .page__lead,
+/* Titles (فقط خوانایی روی بک‌گراند) */
+.page__title,
+.archive__title,
+.archive__subtitle {
+  background: rgba(255,255,255,.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 6px 12px;
+  border-radius: 12px;
+  display: inline-block;
+}
 
-  .archive__subtitle,
-  .archive__title,
-
-  .page__taxonomy,
-  .taxonomy__index,
-  .taxonomy__count,
-
-  .btn,
-  .btn--primary,
-  .btn--info,
-  .btn--inverse,
-
-  a.tag,
-  .tag
-) {
+/* Buttons (بدون تغییر layout) */
+.btn,
+.btn--primary,
+.btn--info,
+.btn--inverse {
   background: rgba(255,255,255,.88) !important;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  display: inline-block;
-  padding: 6px 12px;
   border-radius: 12px;
+}
+
+/* Tags & Categories (بدون تغییر چینش) */
+.tag,
+.page__taxonomy,
+.taxonomy__count,
+.taxonomy__index {
+  background: rgba(255,255,255,.85) !important;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-radius: 10px;
+  padding: 2px 8px;
+}
+
+/* Back to top button */
+.back-to-top,
+.greedy-nav__toggle {
+  background: rgba(255,255,255,.85) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+}
+
+/* Archive cards (پست‌ها) */
+.archive__item {
+  background: rgba(255,255,255,.88);
+  backdrop-filter: blur(12px);
+  border-radius: 20px;
+  padding: 20px;
+  margin-bottom: 15px;
+}
+
+/* داخل کارت‌ها هیچ تغییری در layout نمی‌دهیم */
+.archive__item h2,
+.archive__item h3,
+.archive__item p {
+  margin-top: 0 !important;
 }
