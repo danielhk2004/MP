@@ -270,3 +270,8 @@ a:hover {
 .archive__item-excerpt:empty {
   display: none !important;
 }
+.archive__item span,
+.page__meta span {
+  color: inherit !important;
+  opacity: 1 !important;
+}
