@@ -200,10 +200,23 @@ a:hover {
 .archive__item__content {
   padding-top: 0 !important;
 }
-.glass-ui {
-  background: rgba(255,255,255,.85);
+body :is(
+  h1, h2, h3, h4,
+  .btn, button,
+  a.tag, .tag,
+  .taxonomy__index,
+  .taxonomy__count,
+  .page__meta,
+  .page__taxonomy,
+  .archive__subtitle,
+  .archive__title,
+  .page__title,
+  .page__lead
+) {
+  background: rgba(255,255,255,.88) !important;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
+  display: inline-block;
+  padding: 6px 12px;
   border-radius: 12px;
-  padding: 6px 10px;
 }
