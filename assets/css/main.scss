@@ -95,13 +95,13 @@ body::before {
 .author__content,
 .author__urls {
 
-  background: rgba(255,255,255,.20) !important;
+  background: transparent !important;
 
-  backdrop-filter: blur(12px);
+  backdrop-filter: none !important;
 
-  border-radius: 16px;
+  border-radius: 0;
 
-  padding: 15px;
+  padding: 0;
 
 }
 
