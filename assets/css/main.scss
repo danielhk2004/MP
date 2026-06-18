@@ -175,34 +175,10 @@ a:hover {
   border-radius: 20px;
 
 }
-
-.author {
-  background: rgba(255,255,255,.88) !important;
-  border-radius: 20px;
-  padding: 20px;
-  border: 1px solid rgba(0,0,0,.08);
-}
-.sidebar .author__content {
-  background: rgba(255,255,255,.88) !important;
-  border-radius: 20px;
-  padding: 20px;
-  border: 1px solid rgba(0,0,0,.08);
-}
-.sidebar .author,
-.sidebar .author__avatar,
-.sidebar .author__content,
-.sidebar .author__urls {
-  background: rgba(255,255,255,.88) !important;
-  border-radius: 20px;
-  border: 1px solid rgba(0,0,0,.08);
-}
-.sidebar .author__avatar,
-.sidebar .author__content,
-.sidebar .author__urls {
-  padding: 15px;
-  margin-bottom: 10px;
-}
 .sidebar .author {
-  padding: 0 !important;
+  background: rgba(255,255,255,.88) !important;
+  border-radius: 20px;
+  padding: 20px;
+  border: 1px solid rgba(0,0,0,.08);
   overflow: hidden;
 }
