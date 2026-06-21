@@ -5,7 +5,7 @@ categories:
 tags:
   - Maxwell's equations
   - Rotating frame
-permalink: /MP/electromagnetic/Maxwell's-equations-in-rotating-frame/
+permalink: /electromagnetic/Maxwell's-equations-in-rotating-frame/
 lang: en
 ---
 <style>
@@ -38,12 +38,12 @@ transform:translateY(-1px);
 </style>
 
 <div class="language-switcher">
-  <a href="/MP/electromagnetic/Maxwell's-equations-in-rotating-frame/"
+  <a href="/electromagnetic/Maxwell's-equations-in-rotating-frame/"
      style="background:#1d4ed8;color:white;">
     🇺🇸 English
   </a>
 
-  <a href="/MP/electromagnetic/Maxwell's-equations-in-rotating-frame-ja/">
+  <a href="/electromagnetic/Maxwell's-equations-in-rotating-frame-ja/">
     🇯🇵 日本語
   </a>
 </div>
