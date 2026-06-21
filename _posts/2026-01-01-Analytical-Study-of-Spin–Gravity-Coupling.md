@@ -6,6 +6,7 @@ categories:
 tags:
   - MPD equations
   - Spin-Gravity Coupling
+permalink: /quantum/spin-gravity-coupling-plane-gw/
 lang: en
 ---
 <style>
