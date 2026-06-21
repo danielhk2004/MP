@@ -1,8 +1,6 @@
 ---
 permalink: /about-ja/
 title: "自己紹介"
-layout: single
-author_profile: true
 ---
 
 <style>
