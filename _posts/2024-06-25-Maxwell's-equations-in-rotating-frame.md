@@ -15,7 +15,6 @@ justify-content:flex-end;
 gap:10px;
 margin-bottom:25px;
 }
-
 .language-switcher a{
 display:inline-flex;
 align-items:center;
