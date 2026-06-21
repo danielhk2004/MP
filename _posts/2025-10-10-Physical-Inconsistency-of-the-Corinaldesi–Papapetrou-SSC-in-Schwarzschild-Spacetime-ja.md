@@ -9,7 +9,6 @@ tags:
   - Spin-Gravity Coupling
 permalink: /quantum/physical-inconsistency-of-the-corinaldesi-papapetrou-ssc-in-schwarzschild-spacetime-ja/
 ---
-
 <style>
 .language-switcher{
 display:flex;
