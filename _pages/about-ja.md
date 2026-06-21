@@ -208,3 +208,12 @@ transform:translateY(-1px);
 <li>PowerPoint</li>
 </ul>
 </div>
+<div class="language-switcher">
+  <a href="/MP/about/">
+    🇺🇸 English
+  </a>
+
+  <a href="/MP/about-ja/" style="background:#1d4ed8;color:white;">
+    🇯🇵 日本語
+  </a>
+</div>
