@@ -13,21 +13,19 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
 {% if page.lang == "ja" %}
-  {% assign nav = site.data.navigation-ja.main %}
+  {% assign nav = {% assign nav = site.data["navigation-ja"].main %}}
 {% else %}
   {% assign nav = site.data.navigation.main %}
 {% endif %}
 
 <ul class="visible-links">
-  {%- for link in nav -%}
+  {% for link in nav %}
     <li class="masthead__menu-item">
-      <a
-        href="{{ link.url | relative_url }}"
-        {% if link.description %} title="{{ link.description }}"{% endif %}
-        {% if link.target %} target="{{ link.target }}"{% endif %}
-      >{{ link.title }}</a>
+      <a href="{{ link.url | relative_url }}">
+        {{ link.title }}
+      </a>
     </li>
-  {%- endfor -%}
+  {% endfor %}
 </ul>
         
         {% if site.search == true %}
