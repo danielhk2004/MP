@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 lang: en
 ---
-
 <style>
 .profile-card{
 background:#fafafa;
