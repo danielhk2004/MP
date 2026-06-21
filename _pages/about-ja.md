@@ -1,7 +1,7 @@
 ---
 permalink: /about-ja/
 title: "自己紹介"
-lang: en
+lang: ja
 ---
 <style>
 .profile-card{
