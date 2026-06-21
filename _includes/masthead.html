@@ -12,14 +12,14 @@
          {{ site.masthead_title | default: site.title | escape_once | strip }}
          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
-{% if page.lang == "ja" %}
+{% if page.navigation == "ja" %}
   {% assign nav = site.data["navigation-ja"].main %}
 {% else %}
   {% assign nav = site.data.navigation.main %}
 {% endif %}
-        
+
 <p style="color:red;">
-LANG={{ page.lang }}
+NAV={{ page.navigation }}
 </p>
         
 <ul class="visible-links">
