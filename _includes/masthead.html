@@ -12,8 +12,11 @@
           {{ site.masthead_title | default: site.title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
-
-{% assign nav = site.data.navigation-ja.main %}
+{% if page.lang == "ja" %}
+  {% assign nav = site.data.navigation-ja.main %}
+{% else %}
+  {% assign nav = site.data.navigation.main %}
+{% endif %}
 
 <ul class="visible-links">
   {%- for link in nav -%}
