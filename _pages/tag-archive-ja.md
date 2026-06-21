@@ -3,6 +3,7 @@ title: "タグ別記事"
 permalink: /tags-ja/
 layout: tags
 author_profile: true
+lang: ja
 ---
 
 <style>
