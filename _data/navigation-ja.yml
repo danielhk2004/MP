@@ -1,0 +1,12 @@
+main:
+  - title: "記事"
+    url: /posts-ja/
+
+  - title: "カテゴリ"
+    url: /categories-ja/
+
+  - title: "タグ"
+    url: /tags-ja/
+
+  - title: "自己紹介"
+    url: /about-ja/
