@@ -6,6 +6,7 @@ tags:
   - Maxwell's equations
   - Rotating frame
 permalink: /electromagnetic/Maxwell's-equations-in-rotating-frame-ja/
+lang: ja
 ---
 
 <style>
