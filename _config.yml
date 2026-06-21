@@ -45,6 +45,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji  
+  - jekyll-include-cache
 author:
   name   : "Daniel Hakimi"
   avatar : "/assets/images/4.jpg"
