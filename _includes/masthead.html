@@ -13,11 +13,15 @@
          {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
 {% if page.lang == "ja" %}
-  {% assign nav = {% assign nav = site.data["navigation-ja"].main %}}
+  {% assign nav = site.data["navigation-ja"].main %}
 {% else %}
   {% assign nav = site.data.navigation.main %}
 {% endif %}
-
+        
+<p style="color:red;">
+LANG={{ page.lang }}
+</p>
+        
 <ul class="visible-links">
   {% for link in nav %}
     <li class="masthead__menu-item">
