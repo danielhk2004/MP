@@ -8,6 +8,7 @@ tags:
   - MPD equations
   - Spin-Gravity Coupling
 permalink: /quantum/applications-of-mpd-ja/
+lang: ja
 ---
 
 <style>
