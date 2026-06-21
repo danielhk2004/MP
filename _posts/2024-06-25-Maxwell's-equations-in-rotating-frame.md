@@ -5,6 +5,7 @@ categories:
 tags:
   - Maxwell's equations
   - Rotating frame
+lang: en
 ---
 <style>
 .language-switcher{
