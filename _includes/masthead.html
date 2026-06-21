@@ -26,12 +26,6 @@
   {% assign nav = site.data.navigation.main %}
 {% endif %}
 
-{% if page.lang == "ja" %}
-  {% assign nav = site.data["navigation-ja"].main %}
-{% else %}
-  {% assign nav = site.data.navigation.main %}
-{% endif %}
-
 <ul class="visible-links">
   {% for link in nav %}
     <li class="masthead__menu-item">
