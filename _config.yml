@@ -48,9 +48,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  
+  - jemoji  
 author:
   name   : "Daniel Hakimi"
   avatar : "/assets/images/4.jpg"
