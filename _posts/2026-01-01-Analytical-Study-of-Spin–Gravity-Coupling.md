@@ -6,7 +6,7 @@ categories:
 tags:
   - MPD equations
   - Spin-Gravity Coupling
-permalink: /quantum/spin-gravity-coupling-plane-gw/
+permalink: /quantum/analytical-study-of-spin-gravity-coupling-in-plane-gravitational-wave-spacetimes-ja/
 lang: en
 ---
 <style>
