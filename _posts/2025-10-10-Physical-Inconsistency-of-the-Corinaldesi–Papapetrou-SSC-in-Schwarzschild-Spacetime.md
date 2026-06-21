@@ -62,5 +62,4 @@ The CP condition was one of the earliest supplementary conditions introduced in 
 We demonstrate that this choice predicts an electromagnetic-like spectral structure around a Schwarzschild black hole, while arguing that such a prediction arises from the particular choice of supplementary condition rather than representing a realistic physical phenomenon.
 
 Our analysis highlights the crucial role of selecting an appropriate spin supplementary condition in the study of spin–gravity coupling and the motion of spinning particles, and suggests that the Corinaldesi–Papapetrou condition should be regarded primarily as a mathematical construction rather than a physically consistent description of nature.
-
 [Physical Inconsistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime]({{ site.baseurl }}/files/Physical Consistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime.pdf)
