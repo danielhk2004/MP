@@ -8,7 +8,6 @@ tags:
 permalink: /electromagnetic/Maxwell's-equations-in-rotating-frame-ja/
 lang: ja
 ---
-
 <style>
 .language-switcher{
 display:flex;
