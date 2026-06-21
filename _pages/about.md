@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+lang: en
 ---
 
 <style>
