@@ -39,11 +39,11 @@ transform:translateY(-1px);
 </style>
 
 <div class="language-switcher">
-  <a href="/MP/electromagnetic/Maxwell's-equations-in-rotating-frame/">
+  <a href="/electromagnetic/Maxwell's-equations-in-rotating-frame/">
     🇺🇸 English
   </a>
 
-  <a href="/MP/electromagnetic/Maxwell's-equations-in-rotating-frame-ja/"
+  <a href="/electromagnetic/Maxwell's-equations-in-rotating-frame-ja/"
      style="background:#1d4ed8;color:white;">
     🇯🇵 日本語
   </a>
