@@ -3,7 +3,6 @@ permalink: /about-ja/
 title: "自己紹介"
 lang: en
 ---
-
 <style>
 .profile-card{
 background:#fafafa;
