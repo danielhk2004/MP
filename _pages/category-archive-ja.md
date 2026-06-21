@@ -5,7 +5,6 @@ permalink: /categories-ja/
 author_profile: true
 lang: ja
 ---
-
 <style>
 .language-switcher{
 display:flex;
