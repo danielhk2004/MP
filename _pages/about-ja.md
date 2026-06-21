@@ -3,11 +3,6 @@ permalink: /about-ja/
 title: "自己紹介"
 ---
 
-<div style="text-align:right;margin-bottom:20px;">
-  <a href="/MP/about/" style="margin-right:10px;">🇺🇸 English</a>
-  <a href="/MP/about-ja/">🇯🇵 日本語</a>
-</div>
-
 <style>
 .profile-card{
 background:#fafafa;
@@ -99,6 +94,16 @@ background:#eff6ff;
 transform:translateY(-1px);
 }
 </style>
+
+<div class="language-switcher">
+  <a href="/MP/about/">
+    🇺🇸 English
+  </a>
+
+  <a href="/MP/about-ja/" style="background:#1d4ed8;color:white;">
+    🇯🇵 日本語
+  </a>
+</div>
 
 <div class="profile-card">
 
@@ -208,12 +213,4 @@ transform:translateY(-1px);
 <li>PowerPoint</li>
 </ul>
 </div>
-<div class="language-switcher">
-  <a href="/MP/about/">
-    🇺🇸 English
-  </a>
 
-  <a href="/MP/about-ja/" style="background:#1d4ed8;color:white;">
-    🇯🇵 日本語
-  </a>
-</div>
