@@ -13,11 +13,7 @@
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
 
-{% if page.url contains "-ja/" %}
-  {% assign nav = site.data.navigation-ja.main %}
-{% else %}
-  {% assign nav = site.data.navigation.main %}
-{% endif %}
+{% assign nav = site.data.navigation-ja.main %}
 
 <ul class="visible-links">
   {%- for link in nav -%}
