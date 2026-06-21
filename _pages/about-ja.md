@@ -1,6 +1,7 @@
 ---
 permalink: /about-ja/
 title: "自己紹介"
+lang: ja
 ---
 
 <style>
