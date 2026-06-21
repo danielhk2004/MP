@@ -6,6 +6,7 @@ categories:
 tags:
   - MPD equations
   - Spin-Gravity Coupling
+permalink: /quantum/applications-of-mpd/
 lang: en
 ---
 <style>
