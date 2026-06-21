@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-lang: en
-navigation: en
 ---
 <style>
 .profile-card{
