@@ -12,17 +12,25 @@
           {{ site.masthead_title | default: site.title | escape_once | strip }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle | escape_once | strip }}</span>{% endif %}
         </a>
-        <ul class="visible-links">
-          {%- for link in site.data.navigation.main -%}
-            <li class="masthead__menu-item">
-              <a
-                href="{{ link.url | relative_url }}"
-                {% if link.description %} title="{{ link.description }}"{% endif %}
-                {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
-            </li>
-          {%- endfor -%}
-        </ul>
+
+{% if page.url contains "-ja/" %}
+  {% assign nav = site.data.navigation-ja.main %}
+{% else %}
+  {% assign nav = site.data.navigation.main %}
+{% endif %}
+
+<ul class="visible-links">
+  {%- for link in nav -%}
+    <li class="masthead__menu-item">
+      <a
+        href="{{ link.url | relative_url }}"
+        {% if link.description %} title="{{ link.description }}"{% endif %}
+        {% if link.target %} target="{{ link.target }}"{% endif %}
+      >{{ link.title }}</a>
+    </li>
+  {%- endfor -%}
+</ul>
+        
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[locale].search_label | default: "Toggle search" }}</span>
