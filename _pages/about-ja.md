@@ -1,6 +1,6 @@
 ---
 permalink: /about-ja/
-title: "日本語"
+title: "自己紹介"
 ---
 
 <div style="text-align:right;margin-bottom:20px;">
