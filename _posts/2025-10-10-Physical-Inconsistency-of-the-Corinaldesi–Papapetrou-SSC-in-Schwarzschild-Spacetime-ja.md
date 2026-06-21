@@ -8,6 +8,7 @@ tags:
   - MPD equations
   - Spin-Gravity Coupling
 permalink: /quantum/physical-inconsistency-of-the-corinaldesi-papapetrou-ssc-in-schwarzschild-spacetime-ja/
+lang: ja
 ---
 <style>
 .language-switcher{
