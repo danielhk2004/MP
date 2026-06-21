@@ -6,7 +6,7 @@ categories:
 tags:
   - MPD equations
   - Spin-Gravity Coupling
-  - lang: en
+lang: en
 ---
 <style>
 .language-switcher{
