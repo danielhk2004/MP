@@ -92,6 +92,3 @@ tag_archive:
   path: /tags/
 sass:
   style: compressed
-author_ja:
-  name: "ダニエル・ハキミ"
-  bio: "シャリーフ工科大学 物理学科"
