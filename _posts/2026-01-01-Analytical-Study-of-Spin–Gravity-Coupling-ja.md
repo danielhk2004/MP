@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "平面重力波時空におけるスピン–重力結合の解析的研究"
 categories:
@@ -68,4 +67,3 @@ transform:translateY(-1px);
 また、本稿で採用する方法は、特定の重力波の波形や初期条件に依存しない。そのため、任意の偏極状態をもつ平面重力波に対して一般的な取り扱いを可能にしている。
 
 [平面重力波時空におけるスピン–重力結合の解析的研究]({{ site.baseurl }}/files/Analytical Study of Spin–Gravity Coupling.pdf)
-```
