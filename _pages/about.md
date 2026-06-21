@@ -94,7 +94,15 @@ background:#eff6ff;
 transform:translateY(-1px);
 }
 </style>
+<div class="language-switcher">
+  <a href="/MP/about/" style="background:#1d4ed8;color:white;">
+    🇺🇸 English
+  </a>
 
+  <a href="/MP/about-ja/">
+    🇯🇵 日本語
+  </a>
+</div>
 <div class="profile-card">
 
 <p>
@@ -210,12 +218,4 @@ and ideas.
 <li>PowerPoint</li>
 </ul>
 </div>
-<div class="language-switcher">
-  <a href="/MP/about/" style="background:#1d4ed8;color:white;">
-    🇺🇸 English
-  </a>
 
-  <a href="/MP/about-ja/">
-    🇯🇵 日本語
-  </a>
-</div>
