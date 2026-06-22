@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 ---
+
 <style>
 .profile-card{
 background:#fafafa;
@@ -178,4 +179,3 @@ and ideas.
 <li>PowerPoint</li>
 </ul>
 </div>
-
