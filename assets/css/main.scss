@@ -149,7 +149,7 @@ a:hover {
 
 .archive__item:hover {
 
-  transform: translateY(-5px);
+  transform: translateY(0px);
 
 }
 .page__content {
@@ -162,7 +162,7 @@ a:hover {
 
   border-radius: 20px;
    
-  width: calc(100% + 200px);
+  width: calc(100% + 0px);
    
   max-width: none !important;
 }
@@ -260,26 +260,26 @@ h1.page__title:empty {
   display: none !important;
 }
 .archive__item {
-  width: calc(100% + 125px);
+  width: calc(100% + 0px);
   max-width: none !important;
 }
 .my-profile,
 .author,
 .sidebar__right,
 .sidebar {
-  margin-left: -50px !important;
+  margin-left: 0px !important;
 }
 .site-title {
-  transform: translateX(-50px);
+  transform: translateX(0px);
 }
 .page__content {
-  transform: translateX(60px);
+  transform: translateX(0px);
 }
 .page__title {
-  transform: translateX(60px);
+  transform: translateX(0px);
 }
 .page__taxonomy {
-  transform: translateX(60px);
+  transform: translateX(0px);
 }
 .page__taxonomy {
   margin-bottom: 4px !important;
@@ -294,7 +294,7 @@ h1.page__title:empty {
 
   display: inline-block;
 
-  transform: translateX(60px);
+  transform: translateX(0px);
 }
 .pagination {
   display: none !important;
@@ -304,7 +304,7 @@ h1.page__title:empty {
   display: none !important;
 }
 .page__title {
-  margin-left: -60px !important;
+  margin-left: 0px !important;
 }
 .page__title.p-name {
   display: none !important;
