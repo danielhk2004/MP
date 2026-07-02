@@ -8,7 +8,7 @@ tags:
   - Spin-Gravity Coupling
 ---
 <p style="color:#1e3a8a !important; font-weight:bold;">
-Physical Inconsistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime.
+Physical Inconsistency of the Corinaldesi–Papapetrou SSC in Schwarzschild Spacetime
 </p>
 <p align="center">
   <img src="/MP/assets/images/MPDCP.png" width="750">
