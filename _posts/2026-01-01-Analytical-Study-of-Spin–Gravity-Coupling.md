@@ -8,7 +8,7 @@ tags:
   - Spin-Gravity Coupling
 ---
 <p style="color:#1e3a8a !important; font-weight:bold;">
-Analytical Study of Spin–Gravity Coupling in Plane Gravitational Wave Spacetimes.
+Analytical Study of Spin–Gravity Coupling in Plane Gravitational Wave Spacetimes
 </p>
 <p align="center">
   <img src="/MP/assets/images/SGC.jpeg" width="750">
